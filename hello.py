@@ -1,6 +1,7 @@
-name = "Ayşe"
-age = 20
+name = "Fevzi"
+age = 26
+city = "Warsaw"
 
-print("Merhaba, benim adım", name)
-print("Yaşım:", age)
-print("Gelecek yıl yaşım:", age + 1)
+print("My name is", name)
+print("My age is", age)
+print("I live in", city)
